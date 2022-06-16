@@ -1,4 +1,4 @@
-# Space Invaders Game
+# Space Invaders Game in python
 import pygame
 import random
 import math
